@@ -1,6 +1,6 @@
 # Calculadora-Web-Interativa
 
-Projeto desenvolvido com HTML, CSS e JavaScript.
+Projeto prático guiado desenvolvido com HTML, CSS e JavaScript.
 
 ## Funcionalidades
 - Operações matemáticas básicas
